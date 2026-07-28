@@ -1,0 +1,4 @@
+{
+  "name": "GOATS",
+  "image": "mcr.microsoft.com/devcontainers/php:1-8.4-bookworm"
+}
